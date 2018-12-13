@@ -3,5 +3,6 @@
     "python.linting.pylintEnabled": false,
     "python.linting.enabled": true,
     "python.formatting.provider": "yapf",
-    "python.pythonPath": "E:\\Anaconda3\\python.exe"
+    "python.pythonPath": "E:\\Anaconda3\\python.exe",
+    "C_Cpp.errorSquiggles": "Disabled"
 }
