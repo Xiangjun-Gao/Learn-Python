@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//-------------------------基类&派生类-------------------
 class Line
 {
   public:
